@@ -1,0 +1,1 @@
+<h1>Spotify Clone using Next Js</h1>
